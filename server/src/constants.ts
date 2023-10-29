@@ -1,0 +1,10 @@
+export enum MessageTypesEnum {
+    "WS_NO_MESSAGES" = "WS_NO_MESSAGES",
+    "WS_MESSAGES" = "WS_MESSAGES",
+    "GET_MESSAGES" = "GET_MESSAGES",
+    "REQUEST_MESSAGES" = "REQUEST_MESSAGES",
+    "WS_SEND_MESSAGE" = "WS_SEND_MESSAGE",
+    "WS_ERROR" = "WS_ERROR",
+    "WS_PING" = "WS_PING",
+    "WS_PONG" = "WS_PONG"
+}
